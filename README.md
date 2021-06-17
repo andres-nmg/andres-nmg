@@ -1,8 +1,8 @@
-- 👋 Hi, I’m andrés the founder of @premiero-web
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate making amazing webs
-- 📫 How to reach me in premiero.es
+- 👋 Hi, this is @premiero-web a repository of web desing proyects of premiero.es
+- 👀 We are interested in web design
+- 🌱 We are in a continuous learning process
+- 💞️ We are looking to collaborate making amazing webs
+- 📫 How to reach us in premiero.es
 
 <!---
 premiero-web/premiero-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
