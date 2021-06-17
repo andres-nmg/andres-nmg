@@ -1,4 +1,4 @@
-- 👋 Hi, this is @premiero-web a repository of web desing proyects of premiero.es
+- 👋 Hi, this is @premiero-web a repository of web design projects
 - 👀 We are interested in web design
 - 🌱 We are in a continuous learning process
 - 💞️ We are looking to collaborate making amazing webs
